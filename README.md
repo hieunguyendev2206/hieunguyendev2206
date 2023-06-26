@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me:
 
-![](https://komarev.com/ghpvc/?username=hieunguyendev2206&color=green)
+![](https://komarev.com/ghpvc/?username=hieunguyendev2206&color=blueviolet)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hieunguyendev/" target="_blank">
