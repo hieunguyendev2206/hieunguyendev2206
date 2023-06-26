@@ -7,6 +7,7 @@
 
 - ✍ I majored in software engineering.
 - ✍ I'm learning React technology combined with .NET.
+- ✍ I'm learning C# and Java.
 
 <br />
 
