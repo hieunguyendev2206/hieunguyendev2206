@@ -37,7 +37,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://icons8.com/icon/108784/javascript.png"/>
+  <img src="![image](https://github.com/hieunguyendev2206/hieunguyendev2206/assets/114110346/23d40f29-5638-4411-b674-f80a76b29361)"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
