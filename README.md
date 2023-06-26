@@ -8,6 +8,7 @@
 - ✍ I majored in software engineering.
 - ✍ I'm learning React technology combined with .NET.
 - ✍ I'm learning C# and Java.
+- ✍ I have completed HTML, CSS, JS course and know how to use Bootstrap
 
 <br />
 
