@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I have completed HTML,CSS,JS course at F8 and know how to use technologies such as: Bootstrap, Tailwind CSS
+- ✍ I have completed HTML,CSS,JS course at Coursera and know how to use technologies such as: Bootstrap, Tailwind CSS
 - ✍ I'm learning React technology combined with .NET.
 - ✍ I'm learning C# and Java.
 
