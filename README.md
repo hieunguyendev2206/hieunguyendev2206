@@ -22,7 +22,7 @@
   <a href="https://www.facebook.com/hieunguyen2003t/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a>
-  <a  href="https://www.instagram.com/azzuki__03)">
+  <a  href="https://www.instagram.com/azzuki__03">
     <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
   </a>
   <a href="https://github.com/hieunguyendev2206/" alt="Github">
