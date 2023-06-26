@@ -72,5 +72,5 @@
 
 # Certificates:
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-- <img src="" />
+<img src="imgs/Blue and Yellow Minimalist Employee of the Month Certificate.png" />
 
