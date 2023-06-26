@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ ✍ I have completed HTML, CSS, JS course and know how to use Bootstrap
+- ✍ I have completed HTML, CSS, JS course and know how to use Bootstrap
 - ✍ I'm learning React technology combined with .NET.
 - ✍ I'm learning C# and Java.
 
