@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I have completed HTML,CSS,JS course at F8 and know how to use technologies such as: Bootstrap, Tailwind
+- ✍ I have completed HTML,CSS,JS course at F8 and know how to use technologies such as: Bootstrap, Tailwind CSS
 - ✍ I'm learning React technology combined with .NET.
 - ✍ I'm learning C# and Java.
 
@@ -43,6 +43,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
