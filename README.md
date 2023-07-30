@@ -5,8 +5,8 @@
 </p>
 
 
-- ✍ I have completed HTML,CSS,JS course at Coursera and know how to use technologies such as: Bootstrap, Tailwind CSS
-- ✍ I'm learning React technology combined with .NET.
+- ✍ I have completed HTML,CSS,JS course at Coursera and know how to use technologies such as: Bootstrap, TailwindCSS
+- ✍ I also know how to use technologies like: MongoDB, Prisma and Pusher
 - ✍ I'm learning C# and Java.
 
 <br />
