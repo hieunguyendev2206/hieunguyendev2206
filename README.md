@@ -6,7 +6,7 @@
 
 
 - ✍ I am learning C# along with .NET technology to develop Back-end for Website. In addition, I also know how to use technologies: HTML, CSS, JS, BootStrap, TailwinCSS to build Front-end for Website and understand how to use database management systems such as: SQL Server, MySQL, MongoDB
-- ✍ 
+
 
 <br />
 
