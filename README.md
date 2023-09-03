@@ -5,8 +5,8 @@
 </p>
 
 
-- ✍ I have completed HTML,CSS,JS course at Coursera and know how to use technologies such as: Bootstrap, TailwindCSS. I also know how to use technologies like: MongoDB, Prisma and Pusher
-- ✍ I'm learning C# and Java.
+- ✍ I am learning C# along with .NET technology to develop Back-end for Website. In addition, I also know how to use technologies: HTML, CSS, JS, BootStrap, TailwinCSS to build Front-end for Website and understand how to use database management systems such as: SQL Server, MySQL, MongoDB
+- ✍ 
 
 <br />
 
