@@ -45,7 +45,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -54,6 +55,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/rider-jetbrains.png" alt="rider-jetbrains"/>
 </p>
 
 ## Activities:
