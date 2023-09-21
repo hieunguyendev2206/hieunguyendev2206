@@ -46,7 +46,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/bubbles/50/react.png" alt="react"/>
+  <img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" 
+  alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
