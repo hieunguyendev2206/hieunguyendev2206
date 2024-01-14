@@ -5,11 +5,6 @@
 </p>
 
 
-- ✍ I am learning C# along with .NET technology to develop Website. In addition, I also know how to use technologies: HTML, CSS, JS, BootStrap, TailwinCSS, React, NodeJS, Redux Toolkit, Express to build websites and understand how to use database management systems such as: SQL Server, MySQL, MongoDB
-
-
-<br />
-
 ## 📫 How to reach me:
 
 ![](https://komarev.com/ghpvc/?username=hieunguyendev2206&color=blueviolet)
