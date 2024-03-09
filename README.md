@@ -1,77 +1,47 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Hieu Nguyen</h1>
-<p align="center">
-  <h3 align="center">A passionate developer from Nguyen Tat Thanh University nttu </h3>
-</p>
+# Hieu Nguyen's GitHub Profile 🚀
+
+Welcome to my GitHub playground! 👋 I'm Hieu Nguyen, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
+
+## 🚀 Quick Overview
+
+- 🔭 I work as a Full Stack Developer, and create YouTube content for tutorials on full-stack apps.
+- 👯 I’m looking to collaborate on open source projects or interesting ideas.
+- 💬 Ask me about anything! I'm happy to help.
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-## 📫 How to reach me:
+## 📈 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=hieunguyendev2206&color=blueviolet)
+[![Hieu Nguyen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieunguyendev2206&count_private=true&show_icons=true&theme=radical)](https://github.com/hieunguyendev2206)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hieunguyendev/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/hieunguyen2003t/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a>
-  <a  href="https://www.instagram.com/azzuki__03">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
-  </a>
-  <a href="https://github.com/hieunguyendev2206/" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCmCStoscglGobr79HuGOdJQ" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="mailto:nn1678008@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
+## 📊 My Top Languages
 
-## Skills:
-<p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" 
-  alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/rider-jetbrains.png" alt="rider-jetbrains"/>
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyendev2206&layout=compact&theme=radical)](https://github.com/hieunguyendev2206)
 
-## Activities:
+## 🌟 Let's Connect
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyendev2206&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="hieunguyendev2206" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=hieunguyendev2206&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="hieunguyendev2206" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+- [LinkedIn](https://www.linkedin.com/in/phuc-mai-1309/)
+- [YouTube](https://www.youtube.com/@codewithphuc)
 
-# Certificates:
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-<img src="imgs/Blue and Yellow Minimalist Employee of the Month Certificate.png" />
+## 📈 Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai&color=brightgreen)
+
+Thanks for stopping by! 😊✨
+
+Happy Coding! 🚀
