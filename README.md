@@ -35,12 +35,12 @@ Welcome to my GitHub playground! 👋 I'm Hieu Nguyen, a passionate full-stack d
 
 ## 🌟 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/phuc-mai-1309/)
-- [YouTube](https://www.youtube.com/@codewithphuc)
+- [LinkedIn](https://www.linkedin.com/in/hieunguyendev/)
+- [YouTube](https://www.youtube.com/)
 
 ## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=hieunguyendev2206&color=brightgreen)
 
 Thanks for stopping by! 😊✨
 
