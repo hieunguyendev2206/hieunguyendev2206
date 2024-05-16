@@ -4,7 +4,7 @@ Welcome to my GitHub playground! 👋 I'm Hieu Nguyen, a passionate full-stack d
 
 ## 🚀 Quick Overview
 
-- 🔭 I work as a Full Stack Developer, and create YouTube content for tutorials on full-stack apps.
+- 🔭 I work as a Full Stack Developer.
 - 👯 I’m looking to collaborate on open source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
 
