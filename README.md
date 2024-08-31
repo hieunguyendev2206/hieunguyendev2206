@@ -1,4 +1,4 @@
-# Hieu Nguyen's GitHub Profile 🚀
+# HieuNguyenDev GitHub Profile 🚀
 
 Welcome to my GitHub playground! 👋 I'm Hieu Nguyen, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
