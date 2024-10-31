@@ -12,7 +12,7 @@ Welcome to my GitHub playground! 👋 I'm Hieu Nguyen, a passionate full-stack d
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.icons8.com/color/32/sass.png)
+![SASS](https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
