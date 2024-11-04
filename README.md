@@ -11,6 +11,8 @@ I am a full-stack website developer.
 * ✉️  You can contact me at [hieunguyendev2206@gmail.com](mailto:hieunguyendev2206@gmail.com)
 * 🧠  I'm learning NextJS
 
+<img align="right" alt="Trinh Minh Triet" src="imgs/coding.gif" width="400" /> 
+
 <a href="https://www.github.com/hieunguyendev2206" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hieunguyendev2206?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
