@@ -31,8 +31,6 @@ src="https://img.shields.io/github/followers/hieunguyendev2206?logo=github&style
 
 <a href="http://www.github.com/hieunguyendev2206"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hieunguyendev2206&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/hieunguyendev2206"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hieunguyendev2206&bg_color=000000&color=a855f7&line=3382ed&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/hieunguyendev2206" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyendev2206&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
