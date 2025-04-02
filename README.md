@@ -52,7 +52,7 @@ src="https://img.shields.io/twitter/follow/HieuNguyenDev99?logo=twitter&style=fo
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/hieunguyendev2206/fullstack" align="left">
+  <a href="https://github.com/hieunguyendev2206/dotra-ecommerce" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hieunguyendev2206&repo=dotra-ecommerce&title_color=22c55e&text_color=a855f7&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/hieunguyendev2206/dotra-ecommerce" align="right">
